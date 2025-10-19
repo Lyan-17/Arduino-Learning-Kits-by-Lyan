@@ -88,7 +88,7 @@ digitalWrite(HIGH) 讓 ATmega328P 在該腳位輸出約 5 V，
 
 ---
 
-九、作者的話 (From Lyan)
+## 九、作者的話 (From Lyan)
 
 當你讓第一顆燈亮起，你不只是完成一個任務，
 而是開始理解「電」與「邏輯」的語言。
